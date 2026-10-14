@@ -717,3 +717,17 @@
     padding: 18px;
   }
 }
+
+.prompt-counter {
+  display: block;
+  text-align: right;
+  font-size: 0.8rem;
+  color: #64748b;
+  margin: 6px 0;
+}
+
+.prompt-error {
+  color: #991b1b;
+  font-size: 0.88rem;
+  margin: 0 0 8px;
+}
